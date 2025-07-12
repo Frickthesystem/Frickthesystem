@@ -1,8 +1,10 @@
-# Frickthesystem
+<div align="center">
 
-**Frontend Developer**
+# Hi there, I'm Frickthesystem 👋
 
-Passionate developer building amazing software
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Frontend%20Developer;Passionate%20developer%20building%20amazing%20software" alt="Typing SVG" />
+
+</div>
 
 ## 📊 GitHub Stats
 
